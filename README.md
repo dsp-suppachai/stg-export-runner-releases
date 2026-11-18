@@ -1,5 +1,9 @@
 # STG Export Runner — ไฟล์ติดตั้ง
 
+## ⬇ [ดาวน์โหลดเวอร์ชันล่าสุด (STGExportRunner.exe)](https://github.com/dsp-suppachai/stg-export-runner-releases/releases/latest/download/STGExportRunner.exe)
+
+ลิงก์นี้ชี้ไปที่เวอร์ชันล่าสุดเสมอ · ดูประวัติทุกเวอร์ชันที่ [Releases](https://github.com/dsp-suppachai/stg-export-runner-releases/releases)
+
 repo นี้เก็บเฉพาะไฟล์โปรแกรม (`STGExportRunner.exe`) ของแต่ละเวอร์ชัน
 โปรแกรมที่ติดตั้งแล้วจะตรวจและดาวน์โหลดเวอร์ชันใหม่จากที่นี่เอง (⚙ ตั้งค่า → เวอร์ชันโปรแกรม)
 
